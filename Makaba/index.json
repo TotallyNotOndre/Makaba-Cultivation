@@ -1,6 +1,6 @@
 {
   "name": "Makaba",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Comes with inside joke bg from 2ch.hk forum",
   "includes": {
     "css": ["/index.css"],
