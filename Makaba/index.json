@@ -1,0 +1,12 @@
+{
+  "name": "Makaba",
+  "version": "1.0",
+  "description": "Comes with inside joke bg from 2ch.hk forum",
+  "includes": {
+    "css": ["/index.css"],
+	"js": ["/index.js"]
+  },
+
+  "customBackgroundPath": "/background/makaba.png",
+  "customBackgroundURL": "https://cdn.discordapp.com/attachments/270586804632027139/1002033112953389136/makaba.png"
+}
