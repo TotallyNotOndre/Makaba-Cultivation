@@ -1,33 +1,3 @@
-:root {
-		/* Button colors */
-	--theme_default_btndh: #666;
-	--theme_default_btnd: #e2e2e2;
-	--theme_default_btnh: #e9e9e9;
-	--theme_default_btn: #FF7403;
-	
-		/* Text colors */
-	--theme_default_text: #333;
-	--theme_default_textd: #666;
-	--theme_default_link: #FF6600;
-	
-		/* Sidebar colors */
-	--theme_default_sbc: #333333b0;
-	
-		/* Interactive Elements colors */
-	--theme_default_iebg: #fff;
-	--theme_default_cbol: #bfbfbfe6;
-	
-	--theme_default_shadow: #d2d2d2;
-	
-	--theme_default_BG: #eee;
-	--theme_default_HEADER: #ddd;
-}
-
-
-html[data-theme=nightmode] {
-	/* Dark theme support confirmed? */
-}
-
 
 	/* --Buttons-- */
 	
